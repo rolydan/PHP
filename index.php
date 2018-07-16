@@ -1,3 +1,3 @@
-<?PHP
+<?php
 
 echo "HOLA MUNDO DESDE LA NUBE";
